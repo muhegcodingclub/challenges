@@ -1,1 +1,1 @@
-The Stata directory is where all Stata .do files relating to the challenge are stored. These files should be named using the names or initials of their authors, e.g. MattH.do
+The Stata directory is where all Stata .do, dyndoc and StaraMarkdown files relating to the challenge are stored. 
